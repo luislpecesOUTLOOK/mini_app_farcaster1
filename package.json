@@ -43,7 +43,9 @@
     "@neynar/create-farcaster-mini-app": "./bin/index.js"
   },
   "dependencies": {
+    "@auth/core": "^0.41.1",
     "@auth/upstash-redis-adapter": "^2.11.1",
+    "@farcaster/auth-client": "^0.7.0",
     "@farcaster/mini-app-solana": "^1.1.1",
     "@farcaster/miniapp-sdk": "^0.2.1",
     "@farcaster/miniapp-wagmi-connector": "^1.1.0",
