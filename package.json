@@ -45,7 +45,7 @@
   "dependencies": {
     "@auth/upstash-redis-adapter": "^2.11.1",
     "@farcaster/mini-app-solana": "^1.1.1",
-    "@farcaster/miniapp-sdk": "^0.2.1",
+    "@farcaster/miniapp-sdk": "^0.2.2",
     "@farcaster/miniapp-wagmi-connector": "^1.1.0",
     "@neynar/react": "^1.2.22",
     "@pigment-css/react": "^0.0.30",
