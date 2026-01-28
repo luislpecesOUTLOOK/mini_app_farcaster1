@@ -11,9 +11,6 @@ import {
 } from "~/lib/kv";
 import { sendMiniAppNotification } from "~/lib/notifs";
 
-
-import { authOptions } from "../../../../auth"
-
 export async function POST(request: NextRequest) {
   // If Neynar is enabled, we don't need to handle webhooks here
   // as they will be handled by Neynar's webhook endpoint
